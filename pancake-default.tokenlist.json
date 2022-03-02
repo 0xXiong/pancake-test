@@ -1,0 +1,70 @@
+{
+    "name": "PancakeSwap Default List",
+    "timestamp": "2022-01-26T11:45:09Z",
+    "version": {
+      "major": 4,
+      "minor": 0,
+      "patch": 0
+    },
+    "tags": {},
+    "logoURI": "https://pancakeswap.finance/logo.png",
+    "keywords": ["pancake", "default"],
+    "tokens": [
+      {
+        "name": "ABC Token",
+        "symbol": "ABC",
+        "address": "0x96502b12FfdC2126d24301093cEB9A06BDF99555",
+        "chainId": 97,
+        "decimals": 18,
+        "logoURI": "https://pancakeswap.finance/images/tokens/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c.png"
+      },
+      {
+        "name": "BUSD Token",
+        "symbol": "BUSD",
+        "address": "0x0b7b53a3c0e8620a170f7228685ad4686f440406",
+        "chainId": 97,
+        "decimals": 18,
+        "logoURI": "https://pancakeswap.finance/images/tokens/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c.png"
+      },
+      {
+        "name": "CAKE Token",
+        "symbol": "CAKE",
+        "address": "0x873B047fb63d7690a691dEbED412002CF395B448",
+        "chainId": 97,
+        "decimals": 18,
+        "logoURI": "https://pancakeswap.finance/images/tokens/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c.png"
+      },
+      {
+        "name": "DBTC Token",
+        "symbol": "DBTC",
+        "address": "0xCBF036362d56F4ECb9b79490D0B9EB01F1d147c3",
+        "chainId": 97,
+        "decimals": 18,
+        "logoURI": "https://pancakeswap.finance/images/tokens/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c.png"
+      },
+      {
+        "name": "DUSD Token",
+        "symbol": "DUSD",
+        "address": "0x12391c27c090797bd82f25aada705e53ba873161",
+        "chainId": 97,
+        "decimals": 18,
+        "logoURI": "https://pancakeswap.finance/images/tokens/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c.png"
+      }, 
+      {
+        "name": "USDC Token",
+        "symbol": "USDC",
+        "address": "0x34f8e601579a9377ee69c91f25fc28a423893411",
+        "chainId": 97,
+        "decimals": 18,
+        "logoURI": "https://pancakeswap.finance/images/tokens/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c.png"
+      },
+      {
+        "name": "WBNB Token",
+        "symbol": "WBNB",
+        "address": "0xA314A75563cCE9AeF91d132C72737aCf301E0735",
+        "chainId": 97,
+        "decimals": 18,
+        "logoURI": "https://pancakeswap.finance/images/tokens/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c.png"
+      }
+    ]
+  }
